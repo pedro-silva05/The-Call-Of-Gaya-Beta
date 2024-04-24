@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ander\\OneDrive\\\u00C1rea de Trabalho\\The-Call-Of-Gaya-Beta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5037C5F-D332-4E0C-AEDE-AB5D788425AC}|PlatformPrototipe.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\the-call-of-gaya-beta\\scripts\\send_email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5037C5F-D332-4E0C-AEDE-AB5D788425AC}|PlatformPrototipe.csproj|solutionrelative:scripts\\send_email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5037C5F-D332-4E0C-AEDE-AB5D788425AC}|PlatformPrototipe.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\the-call-of-gaya-beta\\scripts\\signup_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5037C5F-D332-4E0C-AEDE-AB5D788425AC}|PlatformPrototipe.csproj|solutionrelative:scripts\\signup_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "signUp_menu.cs",
               "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\\u00C1rea de Trabalho\\The-Call-Of-Gaya-Beta\\scripts\\signUp_menu.cs",
               "RelativeDocumentMoniker": "scripts\\signUp_menu.cs",
               "ToolTip": "C:\\Users\\ander\\OneDrive\\\u00C1rea de Trabalho\\The-Call-Of-Gaya-Beta\\scripts\\signUp_menu.cs",
               "RelativeToolTip": "scripts\\signUp_menu.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCQAAAA+AAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAA8wDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:51:09.044Z",
+              "WhenOpened": "2024-04-24T19:08:31.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "send_email.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\\u00C1rea de Trabalho\\The-Call-Of-Gaya-Beta\\scripts\\send_email.cs",
+              "RelativeDocumentMoniker": "scripts\\send_email.cs",
+              "ToolTip": "C:\\Users\\ander\\OneDrive\\\u00C1rea de Trabalho\\The-Call-Of-Gaya-Beta\\scripts\\send_email.cs",
+              "RelativeToolTip": "scripts\\send_email.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:07:09.197Z",
               "EditorCaption": ""
             }
           ]

@@ -43,6 +43,7 @@ public partial class signUp_menu : Control
 			   cmd.ExecuteNonQuery();
 		   }
 		   GD.Print("Usuário cadastrado com sucesso!");
+			send_email.Main(email);
 	   }
 	   catch (Exception e)
 	   {
