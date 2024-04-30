@@ -12,16 +12,23 @@ config_version=5
 
 config/name="PlatformPrototipe"
 run/main_scene="res://levels/world1.tscn"
+config/use_custom_user_dir=true
+config/custom_user_dir_name="SaveSystem"
 config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
 
 DialogManager="*res://scripts/SigleTons/DialogManager.cs"
+Globals="*res://scripts/Globals.cs"
 
 [dotnet]
 
 project/assembly_name="PlatformPrototipe"
+
+[filesystem]
+
+import/blender/enabled=false
 
 [input]
 
@@ -73,3 +80,5 @@ interact={
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
